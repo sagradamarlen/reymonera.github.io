@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Camila Castillo-Vilcahuaman
 author: GitHub User
 email: castillo.vilcahuaman
@@ -10,4 +10,4 @@ base_url:
 
 # Build settings
 markdown: kramdown
-remote_theme: chrisbobbe/jekyll-theme-prologue
+# remote_theme: chrisbobbe/jekyll-theme-prologue
