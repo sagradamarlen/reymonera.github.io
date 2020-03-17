@@ -32,14 +32,16 @@
 # in the templates via {{ site.myvariable }}.
 title: Camila Castillo-Vilcahuaman
 subtitle: Bióloga que sólo es seria al frente de su computadora
-description: 
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the demo site for a Jekyll theme version of
+  HTML5 UP's sleek, responsive site template Prologue.
 author: Camila Castillo Vilcahuaman
 email: castillo.vilcahuaman@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "reymonera.github.io" # the base hostname & protocol for your site
+url: "https://reymonera.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
