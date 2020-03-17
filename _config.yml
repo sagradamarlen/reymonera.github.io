@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Holi
-description: Holi
+title: Camila Castillo-Vilcahuaman
+author: GitHub User
+email: castillo.vilcahuaman
+description: A wonderful site
+twitter_username: reymonera
+github_username:  reymonera
+
+# Build settings
+markdown: kramdown
+# theme: minima
