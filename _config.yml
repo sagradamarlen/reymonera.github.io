@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 title: Camila Castillo-Vilcahuaman
 author: GitHub User
 email: castillo.vilcahuaman
@@ -8,4 +8,4 @@ github_username:  reymonera
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
