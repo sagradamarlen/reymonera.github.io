@@ -1,5 +1,5 @@
 ## Camila Castillo Vilcahuaman
-###¡Gracias por pasar por aquí! :D
+### ¡Gracias por pasar por aquí! :D
 
 Si estás por acá, significa que en algún momento te pasé mi dirección web, y estás curioso de por qué ando publicitando esta página. Para empezar, mi nombre es Camila Castillo Vilcahuaman. De profesión soy bióloga, más metida en bioinformática y biología computacional que andar haciendo cosas de laboratorio (que puedo hacer pero no disfruto mucho). Sin embargo, nunca quise definirme con una profesión. A lo Satoru Iwata, en mi cabeza soy bióloga, pero mi corazón es más bien de múltiples intereses. Me inspiré mucho en la biografía de Sor Juana Inés de la Cruz y sus múltiples campos de conocimiento. Creo en adquirir al menos un conocimiento básico de múltiples campos para poder desarrollar ideas multidisciplinarias. 
 
