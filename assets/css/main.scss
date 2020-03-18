@@ -4,20 +4,6 @@
 @import "jekyll-theme-prologue";
 
 #header {
-	@include vendor('display', 'flex');
-	@include vendor('flex-direction', 'column');
-	@include vendor('justify-content', 'space-between');
-	background: #222629 url('images/overlay.png');
-	box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-	color: #fff;
-	height: 100%;
-	left: 0;
-	overflow-y: auto;
-	position: fixed;
-	text-align: right;
-	top: 0;
 	width: 500px;
 
-	.top {
-		@include vendor('flex-grow', '1');
 	}
